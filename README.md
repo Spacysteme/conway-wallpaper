@@ -45,8 +45,8 @@ This wallpaper renders that process on your desktop, in real time, using the HTM
 ## Install
 
 1. Install [Lively Wallpaper](https://github.com/rocksdanister/lively/releases) ([Microsoft Store](https://apps.microsoft.com/detail/9NTM2QC6QWS7)).
-2. Download this repository (**Code → Download ZIP**) and extract it.
-3. In Lively, add a new wallpaper and select `index.html`.
+2. Download the `ConwayWallpaper.zip` file but don't extract it.
+3. In Lively, add a new wallpaper and select the ZIP file (or drag it).
 4. Apply it.
 
 Keep all files in the same folder, otherwise settings or previews will not load.
@@ -79,12 +79,6 @@ LivelyProperties.json  settings
 thumbnail.png          static preview
 preview.gif            animated preview
 ```
-
-<br>
-
-## License
-
-[MIT](https://opensource.org/license/mit)
 
 <div align="center">
 <br>
