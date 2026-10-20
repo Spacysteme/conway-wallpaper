@@ -44,10 +44,12 @@ This wallpaper renders that process on your desktop, in real time, using the HTM
 
 ## Install
 
-1. Install [Lively Wallpaper](https://github.com/rocksdanister/lively/releases) ([Microsoft Store](https://apps.microsoft.com/detail/9NTM2QC6QWS7)).
-2. Download the `ConwayWallpaper.zip` file but don't extract it.
-3. In Lively, add a new wallpaper and select the ZIP file (or drag it).
-4. Apply it.
+## 🚀 Installation
+
+1. **Install Lively Wallpaper** from the [official GitHub releases](https://github.com/rocksdanister/lively/releases) or the [Microsoft Store](https://apps.microsoft.com/detail/9NTM2QC6QWS7).
+2. **Download `ConwayWallpaper.zip`** from this repository's Releases section. Keep the archive compressed.
+3. **Import the wallpaper into Lively Wallpaper.** Open Lively, choose the option to add a new wallpaper, and select the ZIP file.
+4. **Apply the wallpaper** and enjoy Conway's Game of Life on your desktop!
 
 Keep all files in the same folder, otherwise settings or previews will not load.
 
